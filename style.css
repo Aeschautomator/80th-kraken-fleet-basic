@@ -53,11 +53,21 @@ video {
 .order-3 {
     z-index:3;
     color: white;
-    flex-basis: 20%;
+    flex-basis: 25%;
 }
 .order-1 {
     z-index:3;
     color: white;
     flex-basis: 10%;
+}
+.order-2 {
+    z-index:3;
+    color: white;
+    flex-basis: 10%;
+}
+.order-4 {
+    z-index:3;
+    color: white;
+    flex-basis: 15%;
 }
 
