@@ -42,3 +42,22 @@ video {
     opacity: 0.5;
 }
 
+.d-flex {
+    z-index:3;
+    color: white;
+}
+.p-2 {
+    z-index:3;
+    color: white;
+}
+.order-3 {
+    z-index:3;
+    color: white;
+    flex-basis: 20%;
+}
+.order-1 {
+    z-index:3;
+    color: white;
+    flex-basis: 10%;
+}
+
