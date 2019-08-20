@@ -70,4 +70,16 @@ video {
     color: white;
     flex-basis: 15%;
 }
+.order-0 {
+    z-index:3;
+    color: white;
+    flex-basis: 10%;
+}
+.img-responsive {
+    z-index: 3;
+    height:50%;
+    width:80%;
+
+}
+
 
